@@ -1,5 +1,5 @@
 ### Hey, What's up ? 👋
-📚 I’m currently learning system development na etec🖥
+📚 I’m currently learning system development in etec🖥
 
 <div align="center">
   <a href="https://github.com/VictorFiveX">
