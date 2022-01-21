@@ -1,4 +1,4 @@
-### Olá tudo bem? 👋
+### Hey, What's up ? 👋
 📚 I’m currently learning system development na etec🖥
 
 <div align="center">
@@ -17,8 +17,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
   
-  
-  
+ 
   
   
   
