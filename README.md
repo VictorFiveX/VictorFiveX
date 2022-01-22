@@ -1,13 +1,24 @@
-### Hey, What's up ? 👋
-📚 I’m currently learning system development in etec🖥
+## Opa, me chamo Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=30px />
 
-<div align="center">
-  <a href="https://github.com/VictorFiveX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFiveX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFiveX&layout=compact&langs_count=7&theme=dark"/>
-</div>
+📚 Atualmente estou cursando desenvolvimento de sistemas na etec 🖥
+
+<div>
   
-<div style="display: inline_block"><br>
+  
+  🔥 Desenvolvedor FullStack
+  
+  🧐 Inglês Avançado  
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFiveX&count_private=true&show_icons=true&theme=radical)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
+
+
+  
+
+ ## 🚀 Coding Skills
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" >
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -15,12 +26,16 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
+<br>
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevyCS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
   
- 
   
-  
-  
+
   
   
   
