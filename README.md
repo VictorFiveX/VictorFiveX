@@ -1,7 +1,7 @@
 ## Opa, me chamo Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=30px />
 
 📚 Atualmente estou cursando desenvolvimento de sistemas na etec 🖥
-
+VictorFiveX
 <div>
   
   
@@ -10,7 +10,7 @@
   🧐 Inglês Avançado  
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFiveX&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=radical)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
 
 
