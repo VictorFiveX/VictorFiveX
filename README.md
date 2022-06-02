@@ -1,4 +1,4 @@
-## Ola, me chamo Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width=5px />
+## Ola, me chamo Victor
 
 📚 Atualmente estou cursando desenvolvimento de sistemas na etec 🖥
 
