@@ -1,6 +1,6 @@
 ## Ola, me chamo Victor
 
-📚 Atualmente estou cursando desenvolvimento de sistemas na etec 🖥
+📚 TEC. Analista e densenvolvimento de sistemas 🖥
 
 <div>
   
