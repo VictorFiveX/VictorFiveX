@@ -5,7 +5,7 @@
 <div>
   
   
-  🔥 Desenvolvedor FullStack
+  🔥 Desenvolvedor Full Stack
   
   🧐 Inglês Avançado  
 </div>
