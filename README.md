@@ -34,9 +34,7 @@
   <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
 <br>
   <br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFiveX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFiveX&layout=compact&theme=radical&hide_border=true" />
 </div>
   
   
