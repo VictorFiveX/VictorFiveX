@@ -14,9 +14,8 @@
 <br>
 <br>
 
-<img align="left" (https://github-readme-stats.vercel.app/api?username=VictorFiveX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-/><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorFiveX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"
+/><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"/>
 
 
 
