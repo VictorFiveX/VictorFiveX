@@ -9,8 +9,7 @@
   
   🧐 Inglês Avançado  
 </div>
-<h1 align="center">Portifólio </h1>
-<h4 align="center"><a href="https://portifolio-one-beige.vercel.app/">Clique aqui para ver o proejto</a></h4>
+<h1 align="center">Portifólio</h1><a href="https://portifolio-one-beige.vercel.app/">Clique aqui para ver o projeto</a>
 <br>
 <br>
 
