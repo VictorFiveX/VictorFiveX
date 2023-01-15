@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&layout=compact&theme=radical&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorFiveX&layout=compact&theme=radical&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)"
 />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"/>
 
@@ -37,7 +37,7 @@
   <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
 <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFiveX&layout=compact&theme=radical&hide_border=true(https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSoares&layout=compact&theme=radical&hide_border=true(https://github.com/anuraghazra/github-readme-stats)" />
 </div>
   
   
