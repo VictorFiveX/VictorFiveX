@@ -7,7 +7,7 @@
   
   🔥 Desenvolvedor Full Stack
   
-  🧐 Inglês Avançado  
+  🧐 Inglês Intermediario  
 </div>
 <h1 align="center">Portifólio </h1>
 <p align="center"><a href="https://portifolio-one-beige.vercel.app/">Clique aqui para ver o projeto</a></p>
