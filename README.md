@@ -13,9 +13,10 @@
 <p align="center"><a href="https://portifolio-one-beige.vercel.app/">Clique aqui para ver o projeto</a></p>
 <br>
 <br>
-
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorfiveX&layout=compact&theme=radical&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)"
 />
+-->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"/>
 
 
