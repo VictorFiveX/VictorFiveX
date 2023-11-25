@@ -4,22 +4,17 @@
 
 <div>
   
-  
   🔥 Desenvolvedor Full Stack
   
   🧐 Inglês Intermediario  
+  
+  👨‍💻 <a href="https://portifolio-one-beige.vercel.app/">Portifólio</a>
 </div>
-<h1 align="center">Portifólio </h1>
-<p align="center"><a href="https://portifolio-one-beige.vercel.app/">Clique aqui para ver o projeto</a></p>
+
+<h1 align="center"></h1>
+
 <br>
 <br>
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorfiveX&layout=compact&theme=radical&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)"
-/>
--->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"/>
-
-
 
  ## 🚀 Coding Skills
   
@@ -42,7 +37,12 @@
 </div>
   
   
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorfiveX&layout=compact&theme=radical&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)"
+/>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"/>
+-->
   
 <!--
 ### Hi there 👋
