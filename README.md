@@ -11,10 +11,7 @@
   👨‍💻 <a href="https://portifolio-one-beige.vercel.app/">Portifólio</a>
 </div>
 
-<h1 align="center"></h1>
 
-<br>
-<br>
 
  ## 🚀 Coding Skills
   
@@ -38,6 +35,11 @@
   
   
 <!--
+<h1 align="center"></h1>
+
+<br>
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorfiveX&layout=compact&theme=radical&hide_border=true)(https://github.com/anuraghazra/github-readme-stats)"
 />
 
