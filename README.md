@@ -8,7 +8,7 @@
   
   🧐 Inglês Intermediario  
   
-  👨‍💻 <a href="[https://portifolio-one-beige.vercel.app/](https://portifolio-one-victor.vercel.app/)">Portifólio</a>
+  👨‍💻 <a href="https://portifolio-one-victor.vercel.app/">Portifólio</a>
 </div>
 
 
